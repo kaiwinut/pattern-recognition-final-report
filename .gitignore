@@ -1,0 +1,14 @@
+# MacOS
+*.DS_Store
+
+# report
+report/
+sample_files/
+*.pdf
+
+# Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# cache
+__pycache__/
